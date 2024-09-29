@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://labwebsite.github.io/sitemap.xml
+Sitemap: https://noopur-zambare.github.io/sitemap.xml
